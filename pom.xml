@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
     <modules>
         <module>graphical_method_for_design_pattern</module>
+        <module>multithreading</module>
     </modules>
     <packaging>pom</packaging>
 
